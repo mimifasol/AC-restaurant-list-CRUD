@@ -29,7 +29,7 @@
 
 1.開啟Terminal, Clone此專案至本機:
 ```
-git clone https://github.com/muco0521/AC-restaurant-list-CRUD.git
+git clone https://github.com/mimifasol/AC-restaurant-list-CRUD.git
 ```
 
 2.進入專案資料夾，安裝 npm 套件
